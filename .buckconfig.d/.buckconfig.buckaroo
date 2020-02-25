@@ -1,0 +1,8 @@
+[buckaroo]
+  dependencies = 
+  github.com/michaelmachate/component_a = buckaroo.github.michaelmachate.component_a
+  github.com/michaelmachate/component_b = buckaroo.github.michaelmachate.component_b
+
+[repositories]
+  buckaroo.github.michaelmachate.component_a = buckaroo\github\michaelmachate\component_a
+  buckaroo.github.michaelmachate.component_b = buckaroo\github\michaelmachate\component_b

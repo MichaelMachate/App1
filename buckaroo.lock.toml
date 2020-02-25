@@ -1,0 +1,9 @@
+manifest = "9b208f7f18a0ef22eb8c45d8be9011a6a674511c934d2fc01a6f6c771287dfd3"
+
+[lock."github.com/michaelmachate/component_a"]
+versions = [ "branch=master" ]
+revision = "3f0751208c65d06d974ffe0cc70178117a5dcae0"
+
+[lock."github.com/michaelmachate/component_b"]
+versions = [ "branch=master" ]
+revision = "3c858309dc97e663163ed71aff2d23bb3d947af7"

@@ -1,0 +1,8 @@
+[[dependency]]
+package = "github.com/michaelmachate/component_a"
+version = "*"
+
+[[dependency]]
+package = "github.com/michaelmachate/component_b"
+version = "*"
+

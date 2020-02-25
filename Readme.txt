@@ -1,0 +1,1 @@
+App1 hold dependencies of Component A and B
